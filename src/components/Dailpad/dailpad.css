@@ -1,0 +1,40 @@
+.dailpad-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 550px;
+
+}
+
+.dailpad-card{
+    width: 390px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.dail-number{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.number{
+    color: blue;
+    font-size: 45px;
+}
+
+.alpha{
+    color: blue;
+    font-size: 15px;
+}
+
+.dail-numbers{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 45px;
+    color: blue;
+    font-size: 45px;
+}
